@@ -11,5 +11,5 @@ url: https://qiita.com/nigo1973/items/e5722c9e859343427293<br>
 
 
 #example
-https://github.com/hayabusa1228/solar_panel_detection/issues/1#issue-1881663465<br>
+https://github.com/hayabusa1228/solar_panel_detection/assets/93904888/1a80f1db-c559-4f94-9e98-cf56fd26c4ad<br>
 
